@@ -21,6 +21,16 @@ This repository contains my cybersecurity projects and labs.
 
 ## Projects
 
+# 🚀 Featured Projects
+
+## 🔹 Wazuh 4.14 Installation on Linux Mint 22.2 (Low-Spec Hardware)
+
+📂 Repository:
+https://github.com/andriyank/Wazuh-4.14-Installation-on-Linux-Mint-22.2-Low-Spec-Hardware
+
+A complete hands-on guide for deploying Wazuh 4.14 (Indexer, Manager, Dashboard, and Filebeat) on hardware below the official recommended specifications.
+
 - TryHackMe
 - Burp Suite Web Testing *(in progress)*
 - Qualys Training *(in progress)*
+ 
