@@ -1,17 +1,17 @@
-# cybersecurity-portfolio
-Andryan Kurniawan - Cybersecurity Portfolio | Pentesting | Blue Team | Security Research
-# Cybersecurity Portfolio
+# 🔐 Andryan Kurniawan — Cybersecurity Portfolio
 
-Welcome!
+**Blue Team → Red Team | Pentesting | Security Research**
 
-This repository contains my cybersecurity projects and labs.
+Welcome! This repository showcases my cybersecurity projects, labs, and ongoing learning journey.
 
-## Certifications:** CEH · CompTIA Security+ · AWS Certified Cloud Practitioner *(in progress)*
+## 📜 Certifications
+CEH · CompTIA Security+ *(in progress)* · AWS Certified Cloud Practitioner *(in progress)*
 
-📫 [LinkedIn](https://www.linkedin.com/in/andriyan-k/)
-📫 [TryHackMe](https://tryhackme.com/p/andriyank/)
-## Skills
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/andriyan-k/)
+- [TryHackMe](https://tryhackme.com/p/andriyank/)
 
+## 🧰 Skills
 - SOC Analysis
 - Incident Response
 - Threat Hunting
@@ -19,18 +19,12 @@ This repository contains my cybersecurity projects and labs.
 - Web Penetration Testing
 - Vulnerability Assessment
 
-## Projects
+## 🚀 Featured Projects
 
-# 🚀 Featured Projects
+### 🔹 Wazuh 4.14 Installation on Low-Spec Hardware
+Complete hands-on guide for deploying Wazuh 4.14 (Indexer, Manager, Dashboard, Filebeat) on hardware below official recommended specs (2-core CPU, 5.7GB RAM, HDD) — includes 12 real-world troubleshooting cases: race conditions, certificate errors, API sync issues, and heap tuning.
+📂 [View Repository](https://github.com/andriyank/Wazuh-4.14-Installation-on-Linux-Mint-22.2-Low-Spec-Hardware)
 
-## 🔹 Wazuh 4.14 Installation on Linux Mint 22.2 (Low-Spec Hardware)
-
-📂 Repository:
-https://github.com/andriyank/Wazuh-4.14-Installation-on-Linux-Mint-22.2-Low-Spec-Hardware
-
-A complete hands-on guide for deploying Wazuh 4.14 (Indexer, Manager, Dashboard, and Filebeat) on hardware below the official recommended specifications.
-
-- TryHackMe
+## 🎯 Currently Learning
 - Burp Suite Web Testing *(in progress)*
 - Qualys Training *(in progress)*
- 
