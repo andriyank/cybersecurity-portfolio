@@ -9,7 +9,7 @@ This repository contains my cybersecurity projects and labs.
 ## Certifications:** CEH · CompTIA Security+ · AWS Certified Cloud Practitioner *(in progress)*
 
 📫 [LinkedIn](https://www.linkedin.com/in/andriyan-k/)
-
+📫 [TryHackMe](https://tryhackme.com/p/andriyank/)
 ## Skills
 
 - SOC Analysis
