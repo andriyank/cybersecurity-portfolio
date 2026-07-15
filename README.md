@@ -5,7 +5,7 @@
 Welcome! This repository showcases my cybersecurity projects, labs, and ongoing learning journey.
 
 ## 📜 Certifications
-CEH · CompTIA Security+ *(in progress)* · AWS Certified Cloud Practitioner *(in progress)*
+CEH · CompTIA Security+ · AWS Certified Cloud Practitioner *(in progress)*
 
 ## 📫 Connect
 - [LinkedIn](https://www.linkedin.com/in/andriyan-k/)
