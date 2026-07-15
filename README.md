@@ -22,5 +22,5 @@ This repository contains my cybersecurity projects and labs.
 ## Projects
 
 - TryHackMe
-- Nessus Vulnerability Assessment
-- Burp Suite Web Testing
+- Burp Suite Web Testing *(in progress)*
+- Qualys Training *(in progress)*
