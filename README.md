@@ -32,7 +32,7 @@ Complete hands-on guide for deploying Wazuh 4.14 (Indexer, Manager, Dashboard, F
 ### 🔹 Kali Linux (WSL) + Docker + SafeLine WAF — Home Lab Setup
 
 Hands-on home lab deploying Kali Linux via WSL2, Docker, and SafeLine WAF on a resource-constrained laptop (Ryzen 5 7430U, 8GB RAM). Covers full setup from WSL configuration to reverse proxy deployment, plus live penetration testing against XSS, SQL Injection, and File Inclusion attacks — all successfully detected and blocked, with logs and troubleshooting notes included.
-📂 [View Repository](https://github.com/andriyank/kali-wsl-docker-safeline-waf-lab)
+📂 [View Repository]([https://github.com/andriyank/kali-wsl-docker-safeline-waf-lab](https://github.com/andriyank/Kali-Linux-WSL-Docker-SafeLine-WAF-Home-Lab-Setup)
 
 ## 🎯 Currently Learning
 
