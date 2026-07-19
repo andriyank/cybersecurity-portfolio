@@ -31,8 +31,13 @@ Complete hands-on guide for deploying Wazuh 4.14 (Indexer, Manager, Dashboard, F
 
 ### 🔹 Kali Linux (WSL) + Docker + SafeLine WAF — Home Lab Setup
 
-Hands-on home lab deploying Kali Linux via WSL2, Docker, and SafeLine WAF on a resource-constrained laptop (Ryzen 5 7430U, 8GB RAM). Covers full setup from WSL configuration to reverse proxy deployment, plus live penetration testing against XSS, SQL Injection, and File Inclusion attacks — all successfully detected and blocked, with logs and troubleshooting notes included.
+Home security lab built with Kali Linux (WSL2), Docker, and SafeLine WAF on a Windows 11 laptop. Includes reverse proxy configuration and penetration testing against common web attacks (XSS, SQL Injection, Path Traversal/File Inclusion), with full attack logs and WAF detection analysis.
 📂 [View Repository](https://github.com/andriyank/Kali-Linux-WSL-Docker-SafeLine-WAF-Home-Lab-Setup)
+
+### 🔹 Penetration Testing: Broken Access Control / IDOR
+
+Hands-on testing of Broken Access Control and IDOR (Insecure Direct Object Reference) against DVWA, deployed behind SafeLine WAF. Demonstrates how signature-based WAFs fail to detect logic-layer vulnerabilities — includes Forced Browsing and IDOR test scenarios, WAF log verification, and root-cause analysis mapped to OWASP Top 10 (A01:2021) and CWE-639/CWE-862.
+📂 [View Repository](https://github.com/andriyank/Penetration-Testing-Broken-Access-Control-IDOR)
 
 ## 🎯 Currently Learning
 
