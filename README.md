@@ -26,15 +26,36 @@ AWS Certified Cloud Practitioner *(in progress)*
 - [LinkedIn](https://www.linkedin.com/in/andriyan-k/)
 - [TryHackMe](https://tryhackme.com/p/andriyank/)
 
-## 🧰 Skills
+## 🧰 Technical Skills
 
-- SOC Analysis
-- Incident Response
+### Blue Team
+
+- Security Operations Center (SOC)
+- Security Analyst / SOC Analysis
 - Threat Hunting
-- SIEM
-- Web Penetration Testing
-- Vulnerability Assessment
+- Incident Response
+- Log Analysis
+- SIEM (Splunk, Elastic, Trellix, Wazuh)
 
+### Red Team
+
+- Vulnerability Assessment
+- Web Penetration Testing
+- OWASP Top 10
+- SQL Injection
+- XSS
+- IDOR
+- Broken Access Control
+- Burp Suite
+
+### Infrastructure
+
+- Windows
+- Linux
+- Docker
+- WSL2
+- SafeLine WAF
+  
 ## 🚀 Featured Projects
 
 ### 🔹 Wazuh 4.14 Installation on Low-Spec Hardware
