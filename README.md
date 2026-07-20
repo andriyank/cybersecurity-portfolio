@@ -6,8 +6,21 @@ Welcome! This repository showcases my cybersecurity projects, labs, and ongoing 
 
 ## 📜 Certifications
 
-CEH · CompTIA Security+ · AWS Certified Cloud Practitioner *(in progress)*
+CEHv12 
 
+---
+CompTIA Security+ (SY0-701)
+
+
+| ✅ Official Verification | **[View Verification](https://cp.certmetrics.com/CompTIA/en/public/verify/credential/CTSYWCGY01BE16TJ)** |
+
+| 🏅 Credly Digital Badge | **[View Badge](https://www.credly.com/badges/d9f014a0-3789-4c5c-b9fb-da50a3f65ec7/public_url)** |
+
+
+---
+AWS Certified Cloud Practitioner *(in progress)*
+
+---
 ## 📫 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/andriyan-k/)
