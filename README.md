@@ -58,8 +58,8 @@ AWS Certified Cloud Practitioner *(in progress)*
 - SafeLine WAF
 ---
 ## 🎧 Background Music
-[![🎵 Aylex - Powered](https://img.shields.io/badge/🎵-Aylex%20--%20Powered-0078D4?style=for-the-badge&logo=music&logoColor=white)](./audio/Aylex%20-%20Powered%20(freetouse.com).mp3)
-
+[![🎵 Aylex - Powered](https://img.shields.io/badge/🎵-Aylex%20Powered-0078D4?style=for-the-badge)](https://raw.githubusercontent.com/andriyank/cybersecurity-portfolio/main/audio/Aylex%20-%20Powered%20(freetouse.com).mp3)
+*Klik badge di atas untuk download & dengarkan track ini — Music by Aylex, [freetouse.com](https://freetouse.com/music)*
 ---
 ## 🚀 Featured Projects
 
