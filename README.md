@@ -77,3 +77,13 @@ Hands-on testing of Broken Access Control and IDOR (Insecure Direct Object Refer
 
 - Burp Suite Web Testing *(in progress)*
 - Qualys Training *(in progress)*
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andriyank&show_icons=true&theme=dark&hide_border=true)
+
+</div>
+
+---
