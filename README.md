@@ -1,4 +1,4 @@
-![Banner](./banner_2.png)
+![Banner](./banner_2.svg)
 # 🔐 Andryan Kurniawan — Cybersecurity Portfolio
 
 **Blue Team → Red Team | Pentesting | Security Research**
