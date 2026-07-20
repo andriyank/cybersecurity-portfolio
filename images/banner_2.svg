@@ -1,0 +1,74 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0e14"/>
+      <stop offset="50%" stop-color="#0d1b2a"/>
+      <stop offset="100%" stop-color="#0a0e14"/>
+    </linearGradient>
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00ff9c"/>
+      <stop offset="100%" stop-color="#00c2ff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0f2a3a" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  <rect width="1200" height="300" fill="url(#grid)" opacity="0.5"/>
+
+  <!-- Circuit-like decorative lines -->
+  <g stroke="#134e5e" stroke-width="1.5" fill="none" opacity="0.6">
+    <path d="M0 60 H180 L200 80 H320"/>
+    <path d="M0 240 H150 L170 220 H300"/>
+    <path d="M1200 50 H1020 L1000 70 H880"/>
+    <path d="M1200 250 H1050 L1030 230 H900"/>
+    <circle cx="320" cy="80" r="4" fill="#00ff9c"/>
+    <circle cx="300" cy="220" r="4" fill="#00c2ff"/>
+    <circle cx="880" cy="70" r="4" fill="#00ff9c"/>
+    <circle cx="900" cy="230" r="4" fill="#00c2ff"/>
+  </g>
+
+  <!-- Binary rain accents -->
+  <g fill="#12303c" font-family="Consolas, monospace" font-size="14" opacity="0.55">
+    <text x="40" y="30">01001</text>
+    <text x="40" y="130">10110</text>
+    <text x="1090" y="140">01100</text>
+    <text x="1090" y="270">11010</text>
+    <text x="600" y="30">0x1F4A</text>
+  </g>
+
+  <!-- Lock icon -->
+  <g transform="translate(90,110)" filter="url(#glow)">
+    <rect x="0" y="35" width="80" height="55" rx="8" fill="none" stroke="url(#accentGrad)" stroke-width="4"/>
+    <path d="M15 35 V22 A25 25 0 0 1 65 22 V35" fill="none" stroke="url(#accentGrad)" stroke-width="4"/>
+    <circle cx="40" cy="60" r="6" fill="#00ff9c"/>
+    <rect x="37" y="65" width="6" height="14" fill="#00ff9c"/>
+  </g>
+
+  <!-- Main Title -->
+  <text x="230" y="145" font-family="Consolas, 'Courier New', monospace" font-size="52" font-weight="bold" fill="#e8f6f8">
+    cybersecurity<tspan fill="url(#accentGrad)">-portfolio</tspan>
+  </text>
+
+  <!-- Prompt line -->
+  <text x="230" y="185" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#00ff9c">
+    &gt; whoami<tspan fill="#7fdbca">: andriyank</tspan>
+  </text>
+
+  <!-- Bottom accent bar -->
+  <rect x="0" y="290" width="1200" height="10" fill="url(#accentGrad)"/>
+
+  <!-- Terminal cursor blink shape -->
+  <rect x="1055" y="130" width="14" height="30" fill="#00ff9c">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
