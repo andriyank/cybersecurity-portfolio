@@ -56,7 +56,12 @@ AWS Certified Cloud Practitioner *(in progress)*
 - Docker
 - WSL2
 - SafeLine WAF
-  
+---
+## 🎧 Background Music
+
+[![🎵 Aylex - Powered](https://img.shields.io/badge/🎵-Aylex%20--%20Powered-0078D4?style=for-the-badge&logo=music&logoColor=white)](assets/audio/Aylex%20-%20Powered%20(freetouse.com).mp3)
+
+---
 ## 🚀 Featured Projects
 
 ### 🔹 Wazuh 4.14 Installation on Low-Spec Hardware
@@ -88,3 +93,9 @@ Hands-on testing of Broken Access Control and IDOR (Insecure Direct Object Refer
 </div>
 
 ---
+
+### 🎵 Music Credits
+
+**Track:** Powered  
+**Artist:** Aylex  
+**Source:** https://freetouse.com/music
