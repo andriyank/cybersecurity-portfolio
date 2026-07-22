@@ -69,6 +69,11 @@ AWS Certified Cloud Practitioner *(in progress)*
 Complete hands-on guide for deploying Wazuh 4.14 (Indexer, Manager, Dashboard, Filebeat) on hardware below official recommended specs (2-core CPU, 5.7GB RAM, HDD) — includes 12 real-world troubleshooting cases: race conditions, certificate errors, API sync issues, and heap tuning.
 📂 [View Repository](https://github.com/andriyank/Wazuh-4.14-Installation-on-Linux-Mint-22.2-Low-Spec-Hardware)
 
+### 🔹 Linux & Windows System Health Check Automation
+
+Automation scripts designed to simplify security operations, Linux administration, and IT support tasks. Built for lab environments (Kali Linux & Windows), they check system health — CPU, RAM, disk, uptime, and failed login attempts — and generate an easy-to-read HTML report with color-coded status, understandable even by non-technical stakeholders (e.g. HR, management).
+📂 [View Repository](https://github.com/andriyank/Automation)
+
 ### 🔹 Kali Linux (WSL) + Docker + SafeLine WAF — Home Lab Setup
 
 Home security lab built with Kali Linux (WSL2), Docker, and SafeLine WAF on a Windows 11 laptop. Includes reverse proxy configuration and penetration testing against common web attacks (XSS, SQL Injection, Path Traversal/File Inclusion), with full attack logs and WAF detection analysis.
